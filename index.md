@@ -5,7 +5,7 @@
 
 - Third item
 ## Montages de chimie
-- [Techniques spectro](Techniques spectro.md)
+- [Techniques spectro](techniquesspectro.md)
 - [Paramètres cinétiques](tpchimie.md)
 - [Paramètres thermodynamiques](tpchimie.md)
 
