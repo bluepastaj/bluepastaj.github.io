@@ -1,12 +1,15 @@
 # Agreg
 
-ça va julie 
 
+## Leçons de chimie
 
-- [Le m](https://perso.ens-lyon.fr/martin.verot/)
-- [tp de chimie](tpchimie.md)
 - Third item
+## Montages de chimie
+- [Techniques spectro](Techniques spectro.md)
+- [Paramètres cinétiques](tpchimie.md)
+- [Paramètres thermodynamiques](tpchimie.md)
 
+##  Leçons de physiques
 
 
 ![cute dog](https://i.pinimg.com/736x/49/ac/45/49ac452e72e652cfd985ce2b179adc5e.jpg)
