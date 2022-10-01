@@ -7,7 +7,7 @@
 
 ## Montages de chimie
 - [Techniques mises en oeuvre](techniques.md)
-- [Caractérisations](Caractérisations.md)
+- [Caractérisations](Caracterisations.md)
 - [Paramètres thermodynamiques](tpchimie.md)
 
 ##  Leçons de physiques
