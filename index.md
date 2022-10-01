@@ -8,7 +8,7 @@
 ## Montages de chimie
 - [Techniques mises en oeuvre](techniques.md)
 - [Caractérisations](Caracterisations.md)
-- [Paramètres thermodynamiques](tpchimie.md)
+- [Thèmes de montage](themedemontage.md)
 
 ##  Leçons de physiques
 

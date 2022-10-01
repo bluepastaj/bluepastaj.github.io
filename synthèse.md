@@ -1,29 +1,41 @@
+# Manip : Réaction de HWE
+## Références Biblographiques 
+- M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Hermann, 2002, page 375.
+## Durée : 1h30
+## [Caractérisations](Caracterisations.md)
+- Chromatographie sur couche mince
+- Spectro IR
+- Point de fusion
+## [Techniques mises en oeuvre](techniques.md)
+- [Filtration sur Buchner](FiltrationBuchner.md)
+## Montages associés :
+- Synthèse en chimie moléculaire
+- Activations moléculaires en chimie (catalyse, photochimie, oxydoréduction)
+
 # Manip : Réaction de Friedel-Craft
 ## Références Biblographiques 
-- J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèvre, Manip 55 et 92
+- J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 ## Durée : 2h
 ## [Caractérisations](Caracterisations.md)
-- [CCM](ccm.md)
-- [Spectroscopie IR](spectroIR.md)
+- [CCM](ccm.md), [Spectroscopie IR](spectroIR.md)
 ## [Techniques mises en oeuvre](techniques.md)
 - Extraction liquide-liquide](extraction.md)
 ## Montages associés :
-Synthèse en chimie moléculaire
+- Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
-# Manip : Oxydations du menthol en menthone par l'eau de javel 
+# Manip : Réduction du (+)-camphre
 ## Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
-## Durée : 30 minutes (itrages) et 1h30 (réaction)
+## Durée : 2h
 ## [Caractérisations](Caracterisations.md)
-- [CCM](ccm.md)
+- [Chromatographie phase gaz](cpg.md)
 - [Spectroscopie IR](spectroIR.md)
-- [Point de fusion](pointdefusion.md)
+- Pouvoir rotatoire 
 ## [Techniques mises en oeuvre](techniques.md)
-- Titrage indirect
-- Extraction liquide-liquide
+- [Chromatographie phase gaz](cpg.md)
 ## Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
@@ -44,3 +56,4 @@ Synthèse en chimie moléculaire
 - Synthèse en chimie moléculaire
 - Séparations
 - Caractérisations structurales
+

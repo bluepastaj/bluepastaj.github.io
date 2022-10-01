@@ -7,7 +7,7 @@
 - Chromatographie sur couche mince, spectro UV-Visible
 ## [Techniques mises en oeuvre](techniques.md)
 - [Chromatographie sur colonne](Chromatographiesurcolonne.md)
-# Montages associés :
+## Montages associés :
 - Séparations
 - Caractérisations structurales en chimie
 

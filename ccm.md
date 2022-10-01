@@ -1,12 +1,12 @@
 # Manip : Réaction de HWE
 ## Références Biblographiques 
-M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Hermann, 2002, page 375.
+- M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Hermann, 2002, page 375.
 ## Durée : 1h30
 ## [Caractérisations](Caracterisations.md)
 - Chromatographie sur couche mince, spectro IR, point de fusion
 ## [Techniques mises en oeuvre](techniques.md)
 - [Filtration sur Buchner](FiltrationBuchner.md)
-# Montages associés :
+## Montages associés :
 - Synthèse en chimie moléculaire
 - Activations moléculaires en chimie (catalyse, photochimie, oxydoréduction)
 
@@ -18,8 +18,8 @@ M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Her
 - [CCM](ccm.md), [Spectroscopie IR](spectroIR.md)
 ## [Techniques mises en oeuvre](techniques.md)
 - Extraction liquide-liquide](extraction.md)
-# Montages associés :
-Synthèse en chimie moléculaire
+## Montages associés :
+- Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
