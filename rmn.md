@@ -5,10 +5,9 @@
 
 ## Durée : 2h
 
-## [Caractérisations](Caracterisations.md)
-- [Spectroscopie IR](spectroIR.md)
-- [RMN](rmn.md)
-
+## Caractérisations
+- Spectroscopie IR
+- RMN
 ## Techniques mises en oeuvre
 - [Extraction liquide-liquide](extraction.md)
 - [RMN](rmn.md)
