@@ -6,8 +6,8 @@
 - Third item
 
 ## Montages de chimie
-- [Techniques spectro](techniquesspectro.md)
-- [Paramètres cinétiques](tpchimie.md)
+- [Techniques mises en oeuvre](techniques.md)
+- [Caractérisations](Caractérisations.md)
 - [Paramètres thermodynamiques](tpchimie.md)
 
 ##  Leçons de physiques
