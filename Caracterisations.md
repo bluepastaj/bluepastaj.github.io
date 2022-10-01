@@ -3,3 +3,4 @@
 - [Spectroscopie IR](spectroIR.md)
 - [Spectroscopie UV-Visible](spectrouv.md)
 - [Pouvoir rotatoire](pouvoirrota.md)
+- [RMN](rmn.md)

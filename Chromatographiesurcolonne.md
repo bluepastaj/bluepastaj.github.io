@@ -8,11 +8,11 @@
 
 ## Durée : 2h
 
-## [Caractérisations](Caracterisations.md)
+## Caractérisations
 - Chromatographie sur couche mince, spectro UV-Visible
 
-## [Techniques mises en oeuvre](techniques.md)
-- [Chromatographie sur colonne](Chromatographiesurcolonne.md)
+## Techniques mises en oeuvre
+- Chromatographie sur colonne
 
 ## Montages associés :
 - Séparations

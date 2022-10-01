@@ -5,11 +5,11 @@
 
 ## Durée : 1h30
 
-## [Caractérisations](Caracterisations.md)
+## Caractérisations
 - Chromatographie sur couche mince, spectro IR, point de fusion
 
-## [Techniques mises en oeuvre](techniques.md)
-- [Filtration sur Buchner](FiltrationBuchner.md)
+## Techniques mises en oeuvre
+- Filtration sur Buchner
 
 ## Montages associés :
 - Synthèse en chimie moléculaire
