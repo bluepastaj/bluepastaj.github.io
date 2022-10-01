@@ -1,19 +1,19 @@
-# Manip : Réduction du (+)-camphre
+## <ins>Manip : Réduction du (+)-camphre </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
+### Caractérisations
 - [Chromatographie phase gaz](cpg.md)
 - [Spectroscopie IR](spectroIR.md)
 - Pouvoir rotatoire 
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - [Chromatographie phase gaz](cpg.md)
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations

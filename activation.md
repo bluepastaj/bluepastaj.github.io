@@ -1,57 +1,57 @@
-# Manip : Réaction de HWE
+## <ins>Manip : Réaction de HWE</ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Hermann, 2002, page 375.
 
-## Durée : 1h30
+### Durée : 1h30
 
-## Caractérisations
+### Caractérisations
 - Chromatographie sur couche mince, spectro IR, point de fusion
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - [Filtration sur Buchner](FiltrationBuchner.md)
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activations moléculaires en chimie (catalyse, photochimie, oxydoréduction)
 
 
-# Manip : Réaction de Friedel-Craft
+## <ins>Manip : Réaction de Friedel-Craft </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
+### Caractérisations
 - [CCM](ccm.md), [Spectroscopie IR](spectroIR.md)
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - Extraction liquide-liquide](extraction.md)
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
 
-# Manip : Réduction du (+)-camphre
+## <ins>Manip : Réduction du (+)-camphre </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
+### Caractérisations
 - [Chromatographie phase gaz](cpg.md)
 - [Spectroscopie IR](spectroIR.md)
 - Pouvoir rotatoire 
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - [Chromatographie phase gaz](cpg.md)
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations

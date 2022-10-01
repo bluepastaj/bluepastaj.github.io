@@ -1,20 +1,20 @@
 # Caractérisation : spectre UV-visible
 
-# Manip : Autour des pigments d'épinard
+## <ins>Manip : Autour des pigments d'épinard</ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - F. Daumarie, P. Griesmar, S. Salzard. Florilège de chimie pratique, Hermann, 1998, page 159.
 - M. Terrien, J. Fournier, Chimie ud petit déjeuner, 1998, page 271.
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
+### Caractérisations
 - Chromatographie sur couche mince, spectro UV-Visible
 
-## Techniques mises en oeuvre
-- [Chromatographie sur colonne](Chromatographiesurcolonne.md)
+### Techniques mises en oeuvre
+- Chromatographie sur colonne
 
-## Montages associés :
+### Montages associés :
 - Séparations
 - Caractérisations structurales en chimie
 

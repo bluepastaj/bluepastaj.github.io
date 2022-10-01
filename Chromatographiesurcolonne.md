@@ -1,6 +1,6 @@
 # Chromatographie sur colonne 
 
-# Manip : Autour des pigments d'épinard
+# <ins>Manip : Autour des pigments d'épinard</ins>
 
 ## Références Biblographiques 
 - F. Daumarie, P. Griesmar, S. Salzard. Florilège de chimie pratique, Hermann, 1998, page 159.

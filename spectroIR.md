@@ -1,103 +1,104 @@
 # Caractérisation : Spectre IR
 
-# Manip : Réaction de HWE
+## <ins>Manip : Réaction de HWE</ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 M. Blanchard-Desce, B. Fosset, F. Guyot,.., Chimie organique expérimentale, Hermann, 2002, page 375.
 
-## Durée : 1h30
+### Durée : 1h30
 
-## Caractérisations
+### Caractérisations
 - Chromatographie sur couche mince, spectro IR, point de fusion
 
-## Techniques mises en oeuvre
-- [Filtration sur Buchner](FiltrationBuchner.md)
+### Techniques mises en oeuvre
+- Filtration sur Buchner
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activations moléculaires en chimie (catalyse, photochimie, oxydoréduction)
 
 
-# Manip : Réaction de Friedel-Craft
+## Manip : Réaction de Friedel-Craft
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
-- [CCM](ccm.md), [Spectroscopie IR](spectroIR.md)
+### Caractérisations
+- CCM
+- Spectroscopie IR
 
-## [Techniques mises en oeuvre](techniques.md)
-- Extraction liquide-liquide](extraction.md)
+### Techniques mises en oeuvre
+- Extraction liquide-liquide
 
-## Montages associés :
-Synthèse en chimie moléculaire
+### Montages associés :
+- Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
 
-# Manip : Oxydations du menthol en menthone par l'eau de javel 
+## <ins>Manip : Oxydations du menthol en menthone par l'eau de javel </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - F. Porteu de dubhcère, l'épreuve orale de chimie, dunod, 2017, p. 302
 
-## Durée : 30 minutes (itrages) et 1h30 (réaction)
+### Durée : 30 minutes (itrages) et 1h30 (réaction)
 
-## Caractérisations
-- [CCM](ccm.md)
-- [Spectroscopie IR](spectroIR.md)
-- [Point de fusion](pointdefusion.md)
+### Caractérisations :
+- CCM
+- Spectroscopie IR
+- Point de fusion
 
-## [Techniques mises en oeuvre](techniques.md)
+### Techniques mises en oeuvre :
 - Titrage indirect
 - Extraction liquide-liquide
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
 
-# Manip : Réduction du (+)-camphre
+## <ins>Manip : Réduction du (+)-camphre </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
-- [Chromatographie phase gaz](cpg.md)
-- [Spectroscopie IR](spectroIR.md)
+### Caractérisations
+- Chromatographie phase gaz
+- Spectroscopie IR
 - Pouvoir rotatoire 
 
-## [Techniques mises en oeuvre](techniques.md)
-- [Chromatographie phase gaz](cpg.md)
+### Techniques mises en oeuvre
+- Chromatographie phase gaz
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
-# Manip : Elimination decarboxylante d'un bromoacide
+## <ins>Manip : Elimination decarboxylante d'un bromoacide </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - F. Daumarie, V. Prevost, Epreuves de travaux pratiques de chimie à l'oral des concours, Editions Rue d'ULM, 2002, Manipulation 12
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
-- [Spectroscopie IR](spectroIR.md)
-- [RMN](rmn.md)
+### Caractérisations
+- Spectroscopie IR
+- RMN
 
-## [Techniques mises en oeuvre](techniques.md)
-- [Extraction liquide-liquide](extraction.md)
-- [RMN](rmn.md)
+### [Techniques mises en oeuvre
+- Extraction liquide-liquide
+- RMN
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Séparations
 - Caractérisations structurales

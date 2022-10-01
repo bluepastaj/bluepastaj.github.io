@@ -1,63 +1,65 @@
-# Manip : Réaction de Friedel-Craft
+# Extraction
 
-## Références Biblographiques 
+## <ins>Manip : Réaction de Friedel-Craft </ins>
+
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèvre, Manip 55 et 92
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
-- [CCM](ccm.md)
-- [Spectroscopie IR](spectroIR.md)
+### Caractérisations
+- CCM
+- Spectroscopie IR
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - Extraction liquide-liquide](extraction.md)
 
-## Montages associés :
+### Montages associés :
 Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
 
-# Manip : Oxydations du menthol en menthone par l'eau de javel 
+## <ins>Manip : Oxydations du menthol en menthone par l'eau de javel </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
 
-## Durée : 30 minutes (itrages) et 1h30 (réaction)
+### Durée : 30 minutes (itrages) et 1h30 (réaction)
 
-## Caractérisations
-- [CCM](ccm.md)
-- [Spectroscopie IR](spectroIR.md)
-- [Point de fusion](pointdefusion.md)
+### Caractérisations
+- CCM
+- Spectroscopie IR
+- Point de fusion
 
-## Techniques mises en oeuvre
+### Techniques mises en oeuvre
 - Titrage indirect
 - Extraction liquide-liquide
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Activation moléculaire
 - Séparations
 - Caractérisations structurales
 
 
-# Manip : Elimination decarboxylante d'un bromoacide
+## <ins>Manip : Elimination decarboxylante d'un bromoacide </ins>
 
-## Références Biblographiques 
+### Références Biblographiques 
 - F. Daumarie, V. Prevost, Epreuves de travaux pratiques de chimie à l'oral des concours, Editions Rue d'ULM, 2002, Manipulation 12
 
-## Durée : 2h
+### Durée : 2h
 
-## Caractérisations
-- [Spectroscopie IR](spectroIR.md)
-- [RMN](rmn.md)
+### Caractérisations
+- Spectroscopie IR
+- RMN
 
-## Techniques mises en oeuvre
-- [Extraction liquide-liquide](extraction.md)
-- [RMN](rmn.md)
+### Techniques mises en oeuvre
+- Extraction liquide-liquide
+- RMN
 
-## Montages associés :
+### Montages associés :
 - Synthèse en chimie moléculaire
 - Séparations
 - Caractérisations structurales

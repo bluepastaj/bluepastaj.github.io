@@ -17,7 +17,7 @@
 - Synthèse en chimie moléculaire
 - Activations moléculaires en chimie (catalyse, photochimie, oxydoréduction)
 
-## Manip : Réaction de Friedel-Craft
+## <ins>Manip : Réaction de Friedel-Craft </ins>
 
 ### Références Biblographiques 
 - J. Drouin, C. Versaud, manipulations commentées de chimie organique, librairie du cèdre, Manip 55 et 92
@@ -25,7 +25,8 @@
 ### Durée : 2h
 
 ### Caractérisations
-- [CCM](ccm.md), [Spectroscopie IR](spectroIR.md)
+- CCM
+- Spectroscopie IR
 
 ### Techniques mises en oeuvre
 - Extraction liquide-liquide](extraction.md)
@@ -36,7 +37,7 @@
 - Séparations
 - Caractérisations structurales
 
-## Manip : Oxydations du menthol en menthone par l'eau de javel 
+## <ins>Manip : Oxydations du menthol en menthone par l'eau de javel </ins>
 
 ### Références Biblographiques 
 - F. Porteu de dubhcère, l'épreuve orale de chimie, dunod, 2017, p. 302
@@ -44,8 +45,8 @@
 ### Durée : 30 minutes (itrages) et 1h30 (réaction)
 
 ### Caractérisations
-- [Spectroscopie IR](spectroIR.md)
-- [Point de fusion](pointdefusion.md)
+- Spectroscopie IR
+- Point de fusion
 
 ### Techniques mises en oeuvre
 - Titrage indirect
