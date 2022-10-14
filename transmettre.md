@@ -1,0 +1,1 @@
+Expérience : envoyer un faisceau laser sur un CD, observer la figure de diffraction, mesurer la distance entre .. et montrer que c'est bien un CD ou un DVD ou autre.
