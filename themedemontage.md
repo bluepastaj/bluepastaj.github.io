@@ -3,3 +3,4 @@
 - MC3 [Séparations (extraction, recristallisations, chromatographies,..)](separations.md)
 - MC4 [Analyses quantitatives (calibrations, dosages, titrages, spectres, potentiels,..)](analyses.md)
 - MC5 [Caractérisations](Caracterisations.md)
+- MC6 [Déterminations de grandeurs thermodynamiques et cinétiques](grandeursthermoetcin.md)
